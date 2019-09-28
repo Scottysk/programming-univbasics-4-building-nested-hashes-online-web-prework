@@ -5,7 +5,7 @@ end
 def monopoly_with_second_tier
   monoply = {
   :railroads => {
-    :pieces => 4}
+    :pieces => {:pieces =>4}
   }
     
   }
