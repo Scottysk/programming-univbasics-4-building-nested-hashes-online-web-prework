@@ -1,4 +1,4 @@
-def base_hash = {
+def base_hash = 
   :monoply => {}
 }
   # Remember implicit return! We're returning this new Hash _without_ the
