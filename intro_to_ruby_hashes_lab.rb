@@ -1,5 +1,5 @@
-def base_hash
-  monoply = {}
+def base_hash = {
+  :monoply => {}
   # keyword "return." Nice and neat.
 	{}
 end
