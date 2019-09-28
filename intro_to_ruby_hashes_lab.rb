@@ -1,6 +1,7 @@
-def base_hash = {
-  :monoply => 1
-}
+def base_hash 
+  monoply = {
+    :key => 1
+  }
   # Remember implicit return! We're returning this new Hash _without_ the
   # keyword "return." Nice and neat.
 	{}
