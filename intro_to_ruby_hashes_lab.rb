@@ -27,7 +27,12 @@ def monopoly_with_third_tier
       :key_three => {},
       :key_four => {}
     },
-    :names => {}
+    :names => {
+      :names_one => {},
+      :names_two => {},
+      :names_three => {},
+      :names_four => {}
+    }
   }
     
   }
