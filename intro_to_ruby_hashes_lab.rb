@@ -63,7 +63,7 @@ def monopoly_with_fourth_tier
       },
       :shortline_railroad => 
       {
-        "shortline_railroad" => "$800"
+        "mortgage_value" => "$800"
       }
     }
   }
